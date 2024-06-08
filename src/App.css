@@ -1,0 +1,13 @@
+#root {
+  
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body{
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('./assets/pexels-vladalex94-1402787.jpg') ;
+}
+
